@@ -12,13 +12,13 @@
     <hr>
     <p>Play as a ninja, fight against zombies and jutsu your way out of the undead nightmare!</p>
     <div>
-        <img src=".ZombieGame/Screenshots/screenshot4.png">
-        <img src=".ZombieGame/Screenshots/screenshot3.png">
-        <img src=".ZombieGame/Screenshots/screenshot1.png">
+        <img src=".Screenshots/screenshot4.png">
+        <img src=".Screenshots/screenshot3.png">
+        <img src=".Screenshots/screenshot1.png">
     </div>
     <div align="center">
-        <img src=".ZombieGame/Screenshots/ninja_template.png"> 
-        <img src=".ZombieGame/Screenshots/zombie_template.png">
+        <img src=".Screenshots/ninja_template.png"> 
+        <img src=".Screenshots/zombie_template.png">
     </div>
 </div>
 <div style="text-align: center;">
