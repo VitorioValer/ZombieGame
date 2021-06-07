@@ -21,7 +21,7 @@
         <img src="Screenshots/zombie_template.png">
     </div>
 </div>
-<div style="text-align: center;">
+<div align="center">
     <h4>Version & Tech</h4>
     <hr>
         <img src="https://img.shields.io/badge/version-%20PROTOTYPE-blueviolet"><br>
